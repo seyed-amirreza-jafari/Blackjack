@@ -9,3 +9,5 @@ Required Libraries:
   3. random: https://docs.python.org/3/library/random.html
 
 About 300 Lines Python Code
+
+You should download "Playing Cards" images from net and then put the directory: pixmap = QPixmap(f'--/{card}.jpg/png')
