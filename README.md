@@ -8,6 +8,6 @@ Required Libraries:
   2. sys: https://python.readthedocs.io/en/latest/library/sys.html
   3. random: https://docs.python.org/3/library/random.html
 
-About 300 Lines Python Code
-
 You should download "Playing Cards" images from net and then put the directory: pixmap = QPixmap(f'directory/{card}.extension')
+
+About 300 Lines Python Code
